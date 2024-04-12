@@ -8,12 +8,11 @@
 
 :root {
   --darkg: #37373d;
-  --lightg: #666778;
-  --lightblue: #e6e4fc;
+  --lightg: #04bade; /* Aero */
+  --lightblue: #bae0f3; /* Electric blue */
   --almostwhite: #d7e5ec;
-  /* DECIDE ALMOST WHITE BG COLOR */
-  --darkblue: #3b08ab;
-  --lavenderblue: #570dfa;
+  --darkblue: #1a43bf; /* Violet Blue */
+  --lavenderblue: #1877f2; /* Blue Green */
   --greenaccent: #a3f75e;
   --darkbg: #100922;
 }
