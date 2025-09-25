@@ -5,7 +5,6 @@ A modern, responsive portfolio website showcasing my skills, projects, and profe
 ## Features
 
 - 🎨 Clean and modern design with a responsive layout
-- 🌓 Dark/Light mode toggle (Removed this feature cause it requires JavaScript)
 - 📱 Mobile-friendly with hamburger menu navigation
 - 🎯 Smooth scrolling navigation
 - 📝 Contact form for easy communication
