@@ -1,6 +1,6 @@
 # Thato Pilusa - Portfolio Website
 
-A modern, responsive portfolio website showcasing my skills, projects, and professional journey as a Software Engineer.
+A modern, responsive portfolio website showcasing my skills, projects, and professional journey as a Security Analyst.
 
 ## Features
 
@@ -65,3 +65,4 @@ Feel free to reach out through:
 ## License
 
 This project is open source and available under the MIT License.
+
