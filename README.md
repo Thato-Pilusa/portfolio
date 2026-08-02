@@ -58,7 +58,7 @@ A modern, responsive portfolio website showcasing my skills, projects, and profe
 ## Contact
 
 Feel free to reach out through:
-- Email: thatopilusa97@gmail.com
+- Email: thato.pilusa@outlook.com
 - LinkedIn: [Thato Pilusa](https://www.linkedin.com/in/thato-pilusa)
 - GitHub: [Thato-Pilusa](https://github.com/Thato-Pilusa)
 
